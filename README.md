@@ -1,5 +1,5 @@
 # Regressions_ML
-### My studies of Linear regression, Polynomial Regression, and other ones...
+### My studies of Linear regression, Polynomial Regression, and other regressions...
 
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
   <img src="https://pluspng.com/img-png/python-logo-png-speeding-up-python-and-numpy-c-ing-the-way-360.png" alt="python" width="150">
